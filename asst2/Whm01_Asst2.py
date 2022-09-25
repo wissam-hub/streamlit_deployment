@@ -22,7 +22,7 @@ if selected== "Author Information":
     st.write("The author is Wissam Malaeb, a humble AUB graduate passionate about coding!        / id: 201801182       / Nationality: Lebanese")
 
 # Importing dataset
-df=pd.read_csv("ds_salaries.csv")
+df=pd.read_csv("asst2/ds_salaries.csv")
 
 
 #Inspect the raw data if checked (check box)
@@ -45,7 +45,7 @@ st.header('This bar graph represents salaries in USD vs company location ')
 fig1 = px.bar(average_data_mid, x="company_location", y='salary_in_usd')
 st.plotly_chart(fig1)
 
-import plotly.express as px
+
 
 # Salaries for the Full Timers data scientists according to the company location and experience level
 
