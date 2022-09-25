@@ -1,0 +1,4 @@
+dependencies:
+- python: 3.8.0
+- plotly: 5.10.0
+- streamlit: 1.13.0
