@@ -22,7 +22,7 @@ if selected== "Author Information":
     st.write("The author is Wissam Malaeb, a humble AUB graduate passionate about coding!        / id: 201801182       / Nationality: Lebanese")
 
 # Importing dataset
-df=pd.read_csv("ds_salaries.csv")
+df=pd.read_csv("asst2/ds_salaries.csv")
 
 #Inspect the raw data if checked (check box)
 if st.checkbox('Show raw data'):
