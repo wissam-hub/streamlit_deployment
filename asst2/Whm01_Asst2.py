@@ -5,7 +5,7 @@ import plotly.express as px
 from  streamlit_option_menu import option_menu
 
 #Set Streamlit Title
-st.title('Enjoy my Streamlit Visualization of Assignment 1 PLots!')
+st.title('Enjoy my Streamlit Visualization of Assignment 1 PLots!!')
 
 #streamlit menu
 selected = option_menu(
