@@ -1,0 +1,53 @@
+LOCATION_ID,PREMISES_TYPE,LOCATION_TYPE
+A-1,Apartment,Apartment Rooming House and Condo
+C-1,Commercial,Bank And Other Financial Institutions Money Mart and Tsx
+C-2,Commercial,Baror Restaurant
+C-3,Commercial,Commercial Dwelling Unit Hotel and Motel and B and B and Short Term Rental
+C-4,Commercial,Construction Site Warehouse and Trailer and Shed
+C-5,Commercial,Convenience Stores
+C-6,Commercial,Dealership Car and Motorcycle and Marine and Trailer and Etc
+C-7,Commercial,Gas Station Self and Full and Attached Convenience
+C-8,Commercial,Other Commercial or Corporate Places For Profit and Warehouse and Corp Bldg
+E-1,Educational,Schools During Supervised Activity
+E-2,Educational,Schools During Un-Supervised Activity
+E-3,Educational,Universities or Colleges
+H-1,House,Single Home and House Attach Garage and Cottage and Mobile
+O-1,Other,Cargo Train
+O-2,Other,Community Group Home
+O-3,Other,Group Homes Non-Profit and Halfway House and Social Agency
+O-4,Other,Halfway House
+O-5,Other,Homeless Shelter or Mission
+O-6,Other,Hospital or Institutions or Medical Facilities Clinic and Dentist and Morgue
+O-7,Other,Jails or Detention Centres
+O-8,Other,Nursing Home
+O-9,Other,Other Non Commercial or Corporate Places Non-Profit and GovT and Firehall
+O-10,Other,Other Train Tracks
+O-11,Other,Police or Courts Parole Board and Probation Office
+O-12,Other,Pharmacy
+O-13,Other,Private Property Structure Pool and Shed and Detached Garage
+O-14,Other,Retirement Home
+O-15,Other,Religious Facilities Synagogue and Church and Convent and Mosque
+O-16,Other,Unknown
+OU-1,Outside,Open Areas Lakes and Parks and Rivers
+OU-2,Outside,Parking Lots Apt and Commercial Or Non-Commercial
+OU-3,Outside,Streets and Roads and Highways Bicycle Path and Private Road
+OU-4,Outside,Ttc Bus Stop or Shelter or Loop
+OU-5,Outside,Other Train Yard
+TR-1,Transit,Go Bus
+TR-2,Transit,Go Station
+TR-3,Transit,Go Train
+TR-4,Transit,Other Passenger Train
+TR-5,Transit,Other Passenger Train Station
+TR-6,Transit,Other Regional Transit System Vehicle
+TR-7,Transit,Other Train Admin Or Support Facility
+TR-8,Transit,Ttc Admin Or Support Facility
+TR-9,Transit,Ttc Bus
+TR-10,Transit,Ttc Bus Garage
+TR-11,Transit,Ttc Light Rail Vehicle
+TR-12,Transit,Ttc Light Rail Transit Station
+TR-13,Transit,Ttc Subway Station
+TR-14,Transit,Ttc Subway Train
+TR-15,Transit,Ttc Street Car
+TR-16,Transit,Ttc Subway Tunnel or Outdoor Tracks
+TR-17,Transit,Ttc Wheel Trans Vehicle
+TR-18,Transit,Ttc Support Vehicle

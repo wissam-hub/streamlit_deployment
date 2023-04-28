@@ -1,0 +1,52 @@
+UCR_CODE,UCR_EXT,OFFENCE,MCI_CATEGORY
+1480,110,Administering Noxious Thing,Assault
+1462,100,Aggravated Aslt Peace Officer,Assault
+1410,100,Aggravated Assault,Assault
+1410,110,Aggravated Assault Avails Pros,Assault
+1450,110,Air Gun Or Pistol: Bodily Harm,Assault
+1430,100,Assault,Assault
+1430,110,Assault - Force/Thrt/Impede,Assault
+1480,100,Assault - Resist/ Prevent Seiz,Assault
+1420,110,Assault Bodily Harm,Assault
+1460,100,Assault Peace Officer,Assault
+1461,100,Assault Peace Officer Wpn/Cbh,Assault
+1420,100,Assault With Weapon,Assault
+1470,100,Crim Negligence Bodily Harm,Assault
+1460,110,Disarming Peace/Public Officer,Assault
+1450,100,Discharge Firearm - Recklessly,Assault
+1450,120,Discharge Firearm With Intent,Assault
+1440,110,Hoax Terrorism Causing Bodily,Assault
+1457,100,Pointing A Firearm,Assault
+1480,150,Set/Place Trap/Intend Death/Bh,Assault
+1475,100,Traps Likely Cause Bodily Harm,Assault
+1440,100,Unlawfully Causing Bodily Harm,Assault
+1455,100,Use Firearm / Immit Commit Off,Assault
+2130,220,Theft - Misapprop Funds Over,Theft Over
+2130,200,Theft From Mail / Bag / Key,Theft Over
+2132,200,Theft From Motor Vehicle Over,Theft Over
+2130,230,Theft Of Utilities Over,Theft Over
+2130,210,Theft Over,Theft Over
+2130,215,Theft Over - Bicycle,Theft Over
+2130,215,Theft Over - Bicycle,Theft Over
+2133,200,Theft Over - Shoplifting,Theft Over
+2135,210,Theft Of Motor Vehicle,Auto Theft
+2120,200,B&E,Break and Enter
+2125,200,B&E - M/Veh To Steal Firearm,Break and Enter
+2121,200,B&E - To Steal Firearm,Break and Enter
+2120,230,B&E Out,Break and Enter
+2120,220,B&E W'Intent,Break and Enter
+2120,210,Unlawfully In Dwelling-House,Break and Enter
+1610,120,Robbery - Armoured Car,Robbery
+1610,190,Robbery - Atm,Robbery
+1610,210,Robbery - Business,Robbery
+1610,170,Robbery - Delivery Person,Robbery
+1610,110,Robbery - Financial Institute,Robbery
+1610,130,Robbery - Home Invasion,Robbery
+1610,200,Robbery - Mugging,Robbery
+1610,220,Robbery - Other,Robbery
+1610,150,Robbery - Purse Snatch,Robbery
+1610,180,Robbery - Swarming,Robbery
+1610,160,Robbery - Taxi,Robbery
+1610,140,Robbery - Vehicle Jacking,Robbery
+1611,100,Robbery To Steal Firearm,Robbery
+1610,100,Robbery With Weapon,Robbery
